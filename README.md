@@ -158,7 +158,7 @@ elgreco_palette("Shepherds1")
 ``` r
 ggplot(penguins, aes(x = flipper_length_mm)) +
   geom_histogram(aes(fill = species), 
-                 alpha = 0.95, 
+                 alpha = 0.85, 
                  position = "identity") +
   scale_fill_manual(values = elgreco_palette("Shepherds1")) +
   theme_minimal() +
