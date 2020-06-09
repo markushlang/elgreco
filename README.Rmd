@@ -171,11 +171,11 @@ elgreco_palette("John2")
 
 ## Links 
 
-- This package is inspired by [Karthik Ram's `wesanderson` package](https://github.com/karthik/wesanderson) and [ewen's 'ghibli' package](https://github.com/ewenme/ghibli).
+- This package is inspired by [Karthik Ram's `wesanderson` package](https://github.com/karthik/wesanderson) and [ewen's `ghibli` package](https://github.com/ewenme/ghibli).
 
 - The penguins dataset used for illustration purposes comes from [Allison Horst](https://github.com/allisonhorst/penguins).
 
-## Citation
+## Citation (Dataset)
 
 [**Gorman KB, Williams TD, Fraser WR** (2014) Ecological Sexual Dimorphism and Environmental Variability within a Community of Antarctic Penguins (Genus *Pygoscelis*). PLoS ONE 9(3): e90081. doi:10.1371/journal.pone.0090081](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0090081)
 

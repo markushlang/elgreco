@@ -217,13 +217,13 @@ Links
 
 -   This package is inspired by [Karthik Ram’s `wesanderson`
     package](https://github.com/karthik/wesanderson) and [ewen’s
-    ‘ghibli’ package](https://github.com/ewenme/ghibli).
+    `ghibli` package](https://github.com/ewenme/ghibli).
 
 -   The penguins dataset used for illustration purposes comes from
     [Allison Horst](https://github.com/allisonhorst/penguins).
 
-Citation
---------
+Citation (Dataset)
+------------------
 
 [**Gorman KB, Williams TD, Fraser WR** (2014) Ecological Sexual
 Dimorphism and Environmental Variability within a Community of Antarctic
