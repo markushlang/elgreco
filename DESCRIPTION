@@ -1,0 +1,16 @@
+Package: elgreco
+Title: El Greco Palette Generator
+Description: Palettes generated from 'El Greco' paintings.
+Date: 2020-06-09
+Version: 0.1.0
+Authors@R: c(person("Markus", "Lang", email = "markuslang@posteo.de", role = c("aut", "cre")))
+Maintainer: Markus Lang <markuslang@posteo.de>
+Depends:
+  R (>= 3.0)
+License: MIT + file LICENSE
+LazyData: true
+Suggests:
+  ggplot2
+URL: https://github.com/markushlang/elgreco
+BugReports: https://github.com/markushlang/elgreco/issues
+RoxygenNote: 7.1.0
