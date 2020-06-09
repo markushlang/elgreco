@@ -158,7 +158,7 @@ elgreco_palette("Shepherds1")
 ``` r
 ggplot(penguins, aes(x = flipper_length_mm)) +
   geom_histogram(aes(fill = species), 
-                 alpha = 0.5, 
+                 alpha = 0.85, 
                  position = "identity") +
   scale_fill_manual(values = elgreco_palette("Shepherds1")) +
   theme_minimal() +
@@ -229,4 +229,3 @@ Citation
 Dimorphism and Environmental Variability within a Community of Antarctic
 Penguins (Genus *Pygoscelis*). PLoS ONE 9(3): e90081.
 doi:10.1371/journal.pone.0090081](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0090081)
-# elgreco
